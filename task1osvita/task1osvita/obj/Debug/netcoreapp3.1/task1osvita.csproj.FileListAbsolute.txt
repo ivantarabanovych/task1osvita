@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\task1osvita\task1osvita\bin\Debug\netcoreapp3.1\task1osvita.exe
+C:\Users\User\source\repos\task1osvita\task1osvita\bin\Debug\netcoreapp3.1\task1osvita.deps.json
+C:\Users\User\source\repos\task1osvita\task1osvita\bin\Debug\netcoreapp3.1\task1osvita.runtimeconfig.json
+C:\Users\User\source\repos\task1osvita\task1osvita\bin\Debug\netcoreapp3.1\task1osvita.runtimeconfig.dev.json
+C:\Users\User\source\repos\task1osvita\task1osvita\bin\Debug\netcoreapp3.1\task1osvita.dll
+C:\Users\User\source\repos\task1osvita\task1osvita\bin\Debug\netcoreapp3.1\task1osvita.pdb
+C:\Users\User\source\repos\task1osvita\task1osvita\obj\Debug\netcoreapp3.1\task1osvita.csprojAssemblyReference.cache
+C:\Users\User\source\repos\task1osvita\task1osvita\obj\Debug\netcoreapp3.1\task1osvita.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\task1osvita\task1osvita\obj\Debug\netcoreapp3.1\task1osvita.AssemblyInfo.cs
+C:\Users\User\source\repos\task1osvita\task1osvita\obj\Debug\netcoreapp3.1\task1osvita.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\task1osvita\task1osvita\obj\Debug\netcoreapp3.1\task1osvita.dll
+C:\Users\User\source\repos\task1osvita\task1osvita\obj\Debug\netcoreapp3.1\task1osvita.pdb
+C:\Users\User\source\repos\task1osvita\task1osvita\obj\Debug\netcoreapp3.1\task1osvita.genruntimeconfig.cache
